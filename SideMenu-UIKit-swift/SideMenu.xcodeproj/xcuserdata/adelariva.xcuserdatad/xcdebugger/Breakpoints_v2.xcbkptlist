@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "417A0919-B614-4ACB-A269-B5188595C685"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BCA6736E-E1A5-4488-A00C-36BBBB26117A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SideMenu/SideMenuWithCoodinator/SideMenuCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "menuButtonTapped()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BCA6736E-E1A5-4488-A00C-36BBBB26117A - 74bc81153a19f1c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SideMenu.SideMenuCoordinator.menuButtonTapped() -&gt; ()"
+                  moduleName = "SideMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adelariva/XcodeProjects/Training/UIKit/DemoExamples/SideMenu-UIKit-swift/SideMenu/SideMenuWithCoodinator/SideMenuCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "BCA6736E-E1A5-4488-A00C-36BBBB26117A - 74bc81153a19f1c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SideMenu.SideMenuCoordinator.menuButtonTapped() -&gt; ()"
+                  moduleName = "SideMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adelariva/XcodeProjects/Training/UIKit/DemoExamples/SideMenu-UIKit-swift/SideMenu/SideMenuWithCoodinator/SideMenuCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5E6A37F-AE3F-411C-98E2-2040FC3F9177"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SideMenu/SideMenuWithCoodinator/SideMenuCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "itemSelected(item:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E5E6A37F-AE3F-411C-98E2-2040FC3F9177 - 85809df39b2ee6f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SideMenu.SideMenuCoordinator.itemSelected(item: SideMenu.ContentViewControllerPresentation) -&gt; ()"
+                  moduleName = "SideMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adelariva/XcodeProjects/Training/UIKit/DemoExamples/SideMenu-UIKit-swift/SideMenu/SideMenuWithCoodinator/SideMenuCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "E5E6A37F-AE3F-411C-98E2-2040FC3F9177 - 85809df39b2ee6f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SideMenu.SideMenuCoordinator.itemSelected(item: SideMenu.ContentViewControllerPresentation) -&gt; ()"
+                  moduleName = "SideMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adelariva/XcodeProjects/Training/UIKit/DemoExamples/SideMenu-UIKit-swift/SideMenu/SideMenuWithCoodinator/SideMenuCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C668077F-161B-4CC7-91CF-58AC66C13669"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SideMenu/Container/ContainerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "itemSelected(item:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C668077F-161B-4CC7-91CF-58AC66C13669 - 33ccf49aadffd37f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SideMenu.ContainerViewController.itemSelected(item: SideMenu.ContentViewControllerPresentation) -&gt; ()"
+                  moduleName = "SideMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adelariva/XcodeProjects/Training/UIKit/DemoExamples/SideMenu-UIKit-swift/SideMenu/Container/ContainerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "C668077F-161B-4CC7-91CF-58AC66C13669 - 33ccf49aadffd37f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SideMenu.ContainerViewController.itemSelected(item: SideMenu.ContentViewControllerPresentation) -&gt; ()"
+                  moduleName = "SideMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adelariva/XcodeProjects/Training/UIKit/DemoExamples/SideMenu-UIKit-swift/SideMenu/Container/ContainerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC22E4F2-BA09-4D62-8CE1-000A7F9EF443"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SideMenu/SideMenuWithCoodinator/SideMenuCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "start()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E1F5112-5990-4CFC-AA65-154AFD55FFB1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SideMenu/Container/ContainerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "init(sideMenuViewController:rootViewController:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
